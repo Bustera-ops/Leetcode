@@ -32,5 +32,6 @@ public class h4_24_1 {
         sb.append('N');
         System.out.println(sb);
         System.out.println("修改了一点点");
+        System.out.println("修改了二点点");
     }
 }
