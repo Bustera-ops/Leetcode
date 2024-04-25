@@ -33,6 +33,6 @@ public class h4_24_1 {
         System.out.println(sb);
         System.out.println("修改了一点点");
         System.out.println("修改了二点点");
-        System.out.println("修改了hotfix");
+        System.out.println("修改了hotfix!!");
     }
 }
