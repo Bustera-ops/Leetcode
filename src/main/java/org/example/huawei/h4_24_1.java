@@ -36,5 +36,6 @@ public class h4_24_1 {
         System.out.println("修改了三点点!!");
         System.out.println("修改了hotfix!!");
         System.out.println("ssh");
+        System.out.println("在GitHub上修改");
     }
 }
