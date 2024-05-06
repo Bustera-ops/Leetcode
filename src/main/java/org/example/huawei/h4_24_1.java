@@ -38,5 +38,6 @@ public class h4_24_1 {
         System.out.println("ssh");
         System.out.println("在GitHub上修改");
         System.out.println("5.6修改");
+        System.out.println("在Gitee上修改5.6");
     }
 }
